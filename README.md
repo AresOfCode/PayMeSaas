@@ -14,6 +14,8 @@ Test mode is **enabled**, so feel free to create new account and take a look how
 - 🔐 Secure user authentication
 - 📊 Real-time payment processing
 - 🎯 SaaS-ready architecture
+- ⚡ Laravel-powered backend
+- 🚀 Production-ready deployment
 
 ## Setup
 
