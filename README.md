@@ -9,6 +9,12 @@ Demo is available at [PayMe.rocks](https://payme.rocks)
 
 Test mode is **enabled**, so feel free to create new account and take a look how it works.
 
+### Features
+- 💳 Stripe payment integration
+- 🔐 Secure user authentication
+- 📊 Real-time payment processing
+- 🎯 SaaS-ready architecture
+
 ## Setup
 
 ### Deployment
