@@ -1,7 +1,3 @@
-<p align="center"><img width="832" alt="payme-form" src="https://user-images.githubusercontent.com/10295466/72933278-7b27e680-3d72-11ea-804c-fed3c306d4fa.png">
-</p>
-
----
 
 # PayMe
 
@@ -39,10 +35,6 @@ Then change ```APP_DOMAIN``` to the actual domain name of your app.
 Email verification is enabled, so do not forget to set proper SMTP settings for outgoing emails.
 
 ---
-### Want to learn more?
-- Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCxcoXXEjRERiLX1ixP-3Vew) to stay up to date with my latest videos.
-
----
 ### [MIT License](https://opensource.org/licenses/MIT)
 
 ## IMPORTANT TERMS
@@ -55,6 +47,3 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESSED OR
 
 ### Limitations Of Liability
 YOU ASSUME ALL RISK ASSOCIATED WITH THE INSTALLATION AND USE OF THE SOFTWARE. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS OF THE SOFTWARE BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE. LICENSE HOLDERS ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USE AND ASSUME ALL RISKS ASSOCIATED WITH ITS USE, INCLUDING BUT NOT LIMITED TO THE RISKS OF PROGRAM ERRORS, DAMAGE TO EQUIPMENT, LOSS OF DATA OR SOFTWARE PROGRAMS, OR UNAVAILABILITY OR INTERRUPTION OF OPERATIONS.
-
----
-(c) 2019 [Max Kostinevich](https://maxkostinevich.com) - All rights reserved.
